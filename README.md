@@ -55,7 +55,7 @@ A full wiring diagram is included in the Tinkercad project file (if you add it t
 - `schematic.png` — screenshot of the circuit  
 - `tinkercad_screenshot.png` — online build screenshot  
 - `code.ino` — Arduino code used in the simulation  
-- `what-i-learned.md` — reflections & lessons from the project  
+- `what-i-learned.md` — reflections & lessons from the project 
 
 More files will be added when I begin the real-world build.
 
